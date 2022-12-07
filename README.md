@@ -8,3 +8,6 @@ data. Missing data occurs when no data value for an attribute or feature in a da
 This study provides a high-level overview of incomplete data handling methodologies and 
 analyses the various classification and missing data strategies. It presents a number of 
 classification techniques that take advantage of incomplete data.
+
+## KEYWORDS:
+missing data, data handling, techniques 
